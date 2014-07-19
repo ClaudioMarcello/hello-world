@@ -19,7 +19,6 @@ Author: Claudio Marcello
 
 
 
-
 Unordered list
 - first item in list
 - second item in list
@@ -30,3 +29,8 @@ Ordered list
 1. first item in list
 2. second item in list
 3. third item in list
+
+
+# This new line was added after cloning the repository
+## I am finding out how to work efficiently
+### and clone easily.
